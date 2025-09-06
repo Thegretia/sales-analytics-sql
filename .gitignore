@@ -1,0 +1,16 @@
+# Python 
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+.env
+
+#Jupiter 
+.ipynb_checkpoints/
+
+#OS / divers
+.DS_Store
+*.log
