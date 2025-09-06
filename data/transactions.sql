@@ -7,6 +7,7 @@ CREATE TABLE Transactions(
   Product VARCHAR (100),
   amount DECIMAL (10,2),
   state VARCHAR(20) -- "approuver" ou "decliner"
+  );
 
 -- Insertion de données fictives
 INSERT INTO Transactions (id, trans_date, country, product, amount, state) VALUES
