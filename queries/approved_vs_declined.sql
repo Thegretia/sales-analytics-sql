@@ -1,4 +1,5 @@
 --Ventes approuvees vs refusees par mois
+--Requetes conditionnelle 
 SELECT
      DATE_FORMAT(trans_date,"%Y-%m") AS month,--Selectionne les transactions par annee-mois (d'ou le format "%Y-%m") et les mets dans la colonne month 
      COUNT(*) AS total_transactions,--Compte toutes les transactions par annee-mois et les mets dans la colonne total_transactions
