@@ -27,8 +27,6 @@ MIT
 - Volume des transactions approuvées vs déclinées
 - Visualisation des tendances de ventes
 
-## Exemple de visualisation
-*(tu peux insérer une image d’un graphe ici)*
 
 ## Conclusion
 Les ventes sont plus élevées sur certains marchés et augmentent régulièrement en fin d’année.
